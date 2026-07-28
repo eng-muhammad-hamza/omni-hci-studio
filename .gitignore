@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Environment configurations
+.env
+.env.local
+
+# Operating System files
+Thumbs.db
+[Dd]esktop.ini
+.DS_Store
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and temporary execution outputs
+*.log
+*.sqlite3
+scratch/
